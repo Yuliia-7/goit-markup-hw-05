@@ -55,3 +55,10 @@ img {
 .section {
   padding: 120px 0;
 }
+
+button,
+input,
+textarea {
+  font-family: inherit;
+  line-height: inherit;
+}
